@@ -1,0 +1,12 @@
+* Component isimlerinde büyük harfle başla.
+* React Extension : ES7
+* rfce kısayolu ile component oluşturulabilir.
+* fragment kullanımı <> </>
+
+
+Templates
+Uygulama
+https://www.w3schools.com/w3css/w3css_templates.asp
+
+https://transform.tools/html-to-jsx
+https://magic.reactjs.net/htmltojsx.htm
